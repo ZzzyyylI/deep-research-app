@@ -44,3 +44,5 @@ if __name__ == "__main__":
         js=JS,
         theme=gr.themes.Base()
     )
+
+app = ui.app
